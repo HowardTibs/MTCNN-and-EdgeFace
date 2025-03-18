@@ -1,0 +1,12 @@
+{
+  "person_name": "Jim",
+  "average_embedding": "Jim_average.npy",
+  "videos": {
+    "JIM": {
+      "embedding_file": "JIM.npy",
+      "source_video": "face_database\\Jim\\JIM.mp4",
+      "frames_processed": 100,
+      "total_faces_found": 98
+    }
+  }
+}

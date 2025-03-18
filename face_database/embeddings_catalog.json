@@ -1,0 +1,7 @@
+{
+  "Jim": {
+    "embeddings_dir": "face_database\\Jim\\embeddings",
+    "average_embedding": "Jim_average.npy",
+    "video_count": 1
+  }
+}
